@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0ZYtcX3LGOeqi8GgXIINF+pysW75GLbmdhfJG6DAFO3tCOCBZMXu/j9THa3pA+wuMbHpTnaJ+jfE4Z/YF5O1iQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\admin\\source\\repos\\WebApplication2\\WebApplication2\\WebApplication2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\nclam\\7.0.0\\nclam.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
